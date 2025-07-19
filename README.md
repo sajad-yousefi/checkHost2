@@ -1,5 +1,5 @@
 # checkHost
-(new IRAN servers added)
+(new IRAN nodes added)
 # About
 
 These repository are a php class for check-host.net and you can send ping, http, tcp, dns requests through it.
